@@ -2,6 +2,7 @@ Olá! Sou o Marcos, obrigado por estar aqui!
 
 - 🔭 Front-end em formação...
 - 🌱 Atualmente estou estudando JavaScript | HTML5 | CSS3 | React 
+- 🔭Formado em Ciências Contábeis
 
 
 <div align="center">
